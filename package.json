@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/LMT-102/nodejs/issues"
   },
-  "homepage": "https://github.com/LMT-102/nodejs#readme"
+  "homepage": "https://github.com/LMT-102/nodejs#readme",
+  "dependencies": {
+    "express": "5.0.1"
+  }
 }
