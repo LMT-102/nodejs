@@ -1,0 +1,26 @@
+{
+  "name": "tuhoc-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LMT-102/nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": {
+    "name": "LMT"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LMT-102/nodejs/issues"
+  },
+  "homepage": "https://github.com/LMT-102/nodejs#readme"
+}
